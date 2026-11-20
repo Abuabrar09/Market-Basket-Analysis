@@ -1,0 +1,226 @@
+antecedent,consequent,antecedent_department,consequent_department,cross_dept,recommendation_rank,anchor_orders,orders_together,untapped_orders,confidence,lift,est_incremental_units,opportunity_score,play
+Tortilla Chips,Guacamole,snacks,deli,Cross-department,1,4994,1759,3235,0.35222266720064077,4.551949179746767,162,1726.8850935176,Recipe bundle / 'Complete the meal' prompt
+Tomato Ketchup,Yellow Mustard,pantry,pantry,Same department,1,3773,1488,2285,0.39438112907500666,6.455252230762436,114,1680.569607052748,Shelf adjacency / 'Frequently bought together'
+Organic Garlic,Organic Lemon,produce,produce,Same department,1,8992,2843,6149,0.3161699288256228,2.2552908152589497,307,1581.119063946911,Shelf adjacency / 'Frequently bought together'
+Organic Blueberries,Organic Raspberries,produce,produce,Same department,1,9336,3398,5938,0.36396743787489283,2.0676341412250165,297,1569.9346164126491,Shelf adjacency / 'Frequently bought together'
+Sparkling Water Grapefruit,Lime Sparkling Water,beverages,beverages,Same department,1,6589,2123,4466,0.32220367278797996,2.900712112038313,223,1532.4311705836828,Shelf adjacency / 'Frequently bought together'
+Organic Hass Avocado,Organic Lemon,produce,produce,Same department,1,10991,3064,7927,0.2787735419889,1.9885363896562305,396,1519.0400872633427,Shelf adjacency / 'Frequently bought together'
+Organic Raspberries,Organic Blueberries,produce,produce,Same department,1,8713,3398,5315,0.3899919660277746,2.067634141225017,266,1505.6976416789914,Shelf adjacency / 'Frequently bought together'
+Organic Baby Spinach,Organic Lemon,produce,produce,Same department,1,11764,3135,8629,0.26649098945936756,1.900922972369263,431,1477.092376956613,Shelf adjacency / 'Frequently bought together'
+Organic Strawberries,Organic Raspberries,produce,produce,Same department,1,13065,3933,9132,0.30103329506314586,1.710116493256115,457,1475.0268873158789,Shelf adjacency / 'Frequently bought together'
+Guacamole,Tortilla Chips,deli,snacks,Cross-department,1,3830,1759,2071,0.4592689295039164,4.551949179746766,104,1441.5145111765246,Recipe bundle / 'Complete the meal' prompt
+Organic Strawberries,Organic Blueberries,produce,produce,Same department,2,13065,4106,8959,0.3142747799464218,1.6662016691311095,448,1437.4887160467183,Shelf adjacency / 'Frequently bought together'
+Flour Tortillas,Taco Seasoning,bakery,pantry,Cross-department,1,3927,1260,2667,0.320855614973262,5.277962902735642,133,1423.5278305225218,Recipe bundle / 'Complete the meal' prompt
+Organic Cilantro,Jalapeno Peppers,produce,produce,Same department,1,5693,1860,3833,0.3267170209028632,3.1087105697095385,192,1420.3759111334432,Shelf adjacency / 'Frequently bought together'
+Yellow Onions,Jalapeno Peppers,produce,produce,Same department,1,5884,1876,4008,0.31883072739632906,3.033672532475221,200,1418.1507735923617,Shelf adjacency / 'Frequently bought together'
+Yellow Mustard,Tomato Ketchup,pantry,pantry,Same department,1,3024,1488,1536,0.49206349206349204,6.455252230762435,77,1409.504720760797,Shelf adjacency / 'Frequently bought together'
+Sour Cream,Taco Seasoning,dairy eggs,pantry,Cross-department,1,4445,1273,3172,0.28638920134983126,4.7110024257934855,159,1407.9709538988695,Recipe bundle / 'Complete the meal' prompt
+Lime Sparkling Water,Sparkling Water Grapefruit,beverages,beverages,Same department,1,5498,2123,3375,0.38614041469625315,2.900712112038313,169,1387.8764536101967,Shelf adjacency / 'Frequently bought together'
+Yellow Onions,Organic Cilantro,produce,produce,Same department,2,5884,1953,3931,0.33191706322229775,2.8858069345361095,197,1382.7969317232933,Shelf adjacency / 'Frequently bought together'
+Organic Lemon,Organic Garlic,produce,produce,Same department,1,6939,2843,4096,0.40971321516068604,2.25529081525895,205,1364.8327677408797,Shelf adjacency / 'Frequently bought together'
+Ground Beef 85% Lean,Taco Seasoning,meat seafood,pantry,Cross-department,1,5529,1312,4217,0.23729426659432085,3.9034078808970083,211,1362.762320773576,Recipe bundle / 'Complete the meal' prompt
+Organic Cilantro,Yellow Onions,produce,produce,Same department,2,5693,1953,3740,0.3430528719480063,2.8858069345361095,187,1359.7480536716585,Shelf adjacency / 'Frequently bought together'
+Grated Parmesan,Spaghetti,dairy eggs,dry goods pasta,Cross-department,1,4087,1437,2650,0.35160264252507956,4.294984204606086,132,1357.9726917245173,Recipe bundle / 'Complete the meal' prompt
+Jalapeno Peppers,Organic Cilantro,produce,produce,Same department,1,5202,1860,3342,0.3575547866205306,3.1087105697095385,167,1355.3197297974937,Shelf adjacency / 'Frequently bought together'
+Spaghetti,Grated Parmesan,dry goods pasta,dairy eggs,Cross-department,1,4052,1437,2615,0.354639684106614,4.294984204606086,131,1351.6120557906868,Recipe bundle / 'Complete the meal' prompt
+Shredded Mexican Cheese Blend,Taco Seasoning,dairy eggs,pantry,Cross-department,1,4677,1243,3434,0.26576865512080394,4.371801635930353,172,1346.3179976936,Recipe bundle / 'Complete the meal' prompt
+Marinara Sauce,Spaghetti,dry goods pasta,dry goods pasta,Same department,1,5079,1490,3589,0.29336483559755855,3.5835832348401664,179,1343.8654519177467,Shelf adjacency / 'Frequently bought together'
+Marinara Sauce,Grated Parmesan,dry goods pasta,dairy eggs,Cross-department,2,5079,1497,3582,0.2947430596574129,3.5695858145003587,179,1343.4136247996864,Recipe bundle / 'Complete the meal' prompt
+Jalapeno Peppers,Yellow Onions,produce,produce,Same department,2,5202,1876,3326,0.3606305267204921,3.0336725324752205,166,1331.1262700926889,Shelf adjacency / 'Frequently bought together'
+Medium Salsa,Guacamole,pantry,deli,Cross-department,1,5418,1456,3962,0.2687338501291989,3.472981561317222,198,1325.5951112662515,Recipe bundle / 'Complete the meal' prompt
+Limes,Jalapeno Peppers,produce,produce,Same department,1,8498,2073,6425,0.24393975052953634,2.321085319484902,321,1319.7321373256439,Shelf adjacency / 'Frequently bought together'
+Organic Avocado,Jalapeno Peppers,produce,produce,Same department,1,9221,2154,7067,0.23359722372844596,2.2226762366180104,353,1318.5389629973238,Shelf adjacency / 'Frequently bought together'
+Bag of Organic Bananas,Organic Raspberries,produce,produce,Same department,1,16237,4328,11909,0.2665517029007821,1.5142327141604515,595,1317.0718164271452,Shelf adjacency / 'Frequently bought together'
+Medium Salsa,Taco Seasoning,pantry,pantry,Same department,2,5418,1269,4149,0.23421926910299,3.8528252451946483,207,1310.7376479787586,Shelf adjacency / 'Frequently bought together'
+Organic Baby Spinach,Organic Garlic,produce,produce,Same department,2,11764,3572,8192,0.30363821829309756,1.6713946720255173,410,1277.6761317894432,Shelf adjacency / 'Frequently bought together'
+Sour Cream,Flour Tortillas,dairy eggs,bakery,Cross-department,2,4445,1355,3090,0.30483689538807646,3.842248996950247,154,1267.9138368630915,Recipe bundle / 'Complete the meal' prompt
+Large Grade A Eggs,Unsalted Butter,dairy eggs,dairy eggs,Same department,1,7036,1911,5125,0.2716031836270609,2.4808161616513438,256,1264.7233392547043,Shelf adjacency / 'Frequently bought together'
+Limes,Yellow Onions,produce,produce,Same department,2,8498,2156,6342,0.25370675453047775,2.134215368625944,317,1219.7876487385427,Shelf adjacency / 'Frequently bought together'
+Organic Avocado,Yellow Onions,produce,produce,Same department,2,9221,2246,6975,0.24357444962585403,2.0489810559365904,349,1218.7161849529405,Shelf adjacency / 'Frequently bought together'
+Taco Seasoning,Flour Tortillas,pantry,bakery,Cross-department,1,3009,1260,1749,0.4187437686939182,5.277962902735642,87,1218.3483220527069,Recipe bundle / 'Complete the meal' prompt
+Shredded Mexican Cheese Blend,Flour Tortillas,dairy eggs,bakery,Cross-department,2,4677,1328,3349,0.28394269831088303,3.578892726838242,167,1212.479058093169,Recipe bundle / 'Complete the meal' prompt
+Grated Parmesan,Marinara Sauce,dairy eggs,dry goods pasta,Cross-department,2,4087,1497,2590,0.36628333741130414,3.5695858145003583,130,1207.139625411824,Recipe bundle / 'Complete the meal' prompt
+Spaghetti,Marinara Sauce,dry goods pasta,dry goods pasta,Same department,2,4052,1490,2562,0.3677196446199407,3.5835832348401664,128,1202.4588759888231,Shelf adjacency / 'Frequently bought together'
+Thick Cut Bacon,Sourdough Bread,meat seafood,bakery,Cross-department,1,3841,1183,2658,0.3079927102317105,4.335812052997433,133,1200.8770988989504,Recipe bundle / 'Complete the meal' prompt
+Organic Avocado,Organic Cilantro,produce,produce,Same department,3,9221,2178,7043,0.2361999783103785,2.0536079969135437,352,1197.0922993304478,Shelf adjacency / 'Frequently bought together'
+Organic Hass Avocado,Organic Garlic,produce,produce,Same department,2,10991,3341,7650,0.3039759803475571,1.673253903387793,382,1197.0549316774548,Shelf adjacency / 'Frequently bought together'
+Flour Tortillas,Sour Cream,bakery,dairy eggs,Cross-department,2,3927,1355,2572,0.3450471097529921,3.842248996950247,129,1194.5740884813517,Recipe bundle / 'Complete the meal' prompt
+Medium Salsa,Flour Tortillas,pantry,bakery,Cross-department,3,5418,1370,4048,0.25286083425618305,3.1871282692076117,202,1186.4531001363723,Recipe bundle / 'Complete the meal' prompt
+Limes,Organic Cilantro,produce,produce,Same department,3,8498,2072,6426,0.24382207578253706,2.1198772676986186,321,1177.2285141353861,Shelf adjacency / 'Frequently bought together'
+Organic Lemon,Organic Hass Avocado,produce,produce,Same department,2,6939,3064,3875,0.44156218475284625,1.9885363896562307,194,1176.176245590718,Shelf adjacency / 'Frequently bought together'
+Organic Blueberries,Organic Strawberries,produce,produce,Same department,2,9336,4106,5230,0.439802913453299,1.6662016691311095,262,1174.3435520866653,Shelf adjacency / 'Frequently bought together'
+Toilet Paper 12 Rolls,Trash Bags,household,household,Same department,1,2561,850,1711,0.3319016009371339,7.767439026754287,86,1164.1276783686203,Shelf adjacency / 'Frequently bought together'
+Organic Raspberries,Organic Strawberries,produce,produce,Same department,2,8713,3933,4780,0.45139446803626765,1.710116493256115,239,1157.7202525688847,Shelf adjacency / 'Frequently bought together'
+Shredded Mexican Cheese Blend,Sour Cream,dairy eggs,dairy eggs,Same department,3,4677,1376,3301,0.29420568740645714,3.276107741182769,165,1152.4482887249972,Shelf adjacency / 'Frequently bought together'
+Sourdough Bread,Thick Cut Bacon,bakery,meat seafood,Cross-department,1,3516,1183,2333,0.33646188850967007,4.335812052997433,117,1151.473017866913,Recipe bundle / 'Complete the meal' prompt
+Creamy Peanut Butter,Strawberry Jam,pantry,pantry,Same department,1,3645,1020,2625,0.279835390946502,4.787767834662637,131,1150.3805642269028,Shelf adjacency / 'Frequently bought together'
+Organic Garlic,Grated Parmesan,produce,dairy eggs,Cross-department,2,8992,1706,7286,0.18972419928825623,2.2977192787303204,364,1149.9842738798743,Recipe bundle / 'Complete the meal' prompt
+Taco Seasoning,Sour Cream,pantry,dairy eggs,Cross-department,2,3009,1273,1736,0.4230641409106015,4.7110024257934855,87,1138.3080712863202,Recipe bundle / 'Complete the meal' prompt
+Paper Towels,Trash Bags,household,household,Same department,1,2941,837,2104,0.28459707582454946,6.660378941885449,105,1135.4157169701473,Shelf adjacency / 'Frequently bought together'
+Sour Cream,Shredded Mexican Cheese Blend,dairy eggs,dairy eggs,Same department,3,4445,1376,3069,0.30956130483689537,3.2761077411827686,153,1127.3750418678558,Shelf adjacency / 'Frequently bought together'
+Unsalted Butter,Large Grade A Eggs,dairy eggs,dairy eggs,Same department,1,5419,1911,3508,0.35264809005351544,2.4808161616513438,175,1124.0041840068168,Shelf adjacency / 'Frequently bought together'
+Guacamole,Medium Salsa,deli,pantry,Cross-department,2,3830,1456,2374,0.3801566579634465,3.4729815613172224,119,1123.614574665818,Recipe bundle / 'Complete the meal' prompt
+Hamburger Buns,Yellow Mustard,bakery,pantry,Cross-department,1,3115,997,2118,0.3200642054574639,5.238828696272516,106,1122.6621492919978,Recipe bundle / 'Complete the meal' prompt
+Classic Hummus,Pita Chips,deli,snacks,Cross-department,1,4062,996,3066,0.24519940915805022,4.4472829443371245,153,1121.8783557009513,Recipe bundle / 'Complete the meal' prompt
+Flour Tortillas,Shredded Mexican Cheese Blend,bakery,dairy eggs,Cross-department,3,3927,1328,2599,0.3381716322892793,3.5788927268382418,130,1120.6547772200868,Recipe bundle / 'Complete the meal' prompt
+Tomato Ketchup,Hamburger Buns,pantry,bakery,Cross-department,2,3773,1043,2730,0.27643784786641934,4.3925663421650585,136,1116.8543101352084,Recipe bundle / 'Complete the meal' prompt
+Paper Towels,Toilet Paper 12 Rolls,household,household,Same department,2,2941,904,2037,0.30737844270656234,5.940769534809339,102,1115.6624504563026,Shelf adjacency / 'Frequently bought together'
+Dish Soap,Trash Bags,household,household,Same department,1,2275,816,1459,0.35868131868131864,8.39416039279869,73,1113.3738656328248,Shelf adjacency / 'Frequently bought together'
+Unsalted Butter,Thick Cut Bacon,dairy eggs,meat seafood,Cross-department,2,5419,1297,4122,0.2393430522236575,3.0842913449399574,206,1111.1977393130762,Recipe bundle / 'Complete the meal' prompt
+Yellow Mustard,Hamburger Buns,pantry,bakery,Cross-department,2,3024,997,2027,0.3296957671957672,5.238828696272517,101,1106.7591921467028,Recipe bundle / 'Complete the meal' prompt
+Organic Garlic,Organic Baby Spinach,produce,produce,Same department,3,8992,3572,5420,0.3972419928825623,1.6713946720255173,271,1105.9330640621915,Shelf adjacency / 'Frequently bought together'
+Organic Lemon,Organic Baby Spinach,produce,produce,Same department,3,6939,3135,3804,0.4517942066580199,1.9009229723692629,190,1103.9409014922185,Shelf adjacency / 'Frequently bought together'
+Organic Baby Spinach,Organic Hass Avocado,produce,produce,Same department,3,11764,3973,7791,0.3377252635158109,1.520915964720416,390,1103.3030884033315,Shelf adjacency / 'Frequently bought together'
+Toilet Paper 12 Rolls,Dish Soap,household,household,Same department,2,2561,834,1727,0.325654041390082,7.085229928213138,86,1101.1950006029097,Shelf adjacency / 'Frequently bought together'
+Tortilla Chips,Medium Salsa,snacks,pantry,Cross-department,2,4994,1537,3457,0.3077693231878254,2.81167556106087,173,1099.8996985826689,Recipe bundle / 'Complete the meal' prompt
+Ground Beef 85% Lean,Flour Tortillas,meat seafood,bakery,Cross-department,2,5529,1310,4219,0.23693253752939047,2.9863635880041355,211,1093.6389375589874,Recipe bundle / 'Complete the meal' prompt
+Paper Towels,Dish Soap,household,household,Same department,3,2941,837,2104,0.28459707582454946,6.191956686631967,105,1091.74864866561,Shelf adjacency / 'Frequently bought together'
+Ground Beef 85% Lean,Sour Cream,meat seafood,dairy eggs,Cross-department,3,5529,1405,4124,0.2541146681135829,2.8296768791041647,206,1090.0579713886457,Recipe bundle / 'Complete the meal' prompt
+Large Grade A Eggs,Thick Cut Bacon,dairy eggs,meat seafood,Cross-department,2,7036,1423,5613,0.20224559408754975,2.6062353997790813,281,1087.4201338891253,Recipe bundle / 'Complete the meal' prompt
+Frozen Broccoli Florets,Soy Sauce,frozen,international,Cross-department,1,2674,825,1849,0.30852655198204937,6.697867869936622,92,1084.9053338408846,Recipe bundle / 'Complete the meal' prompt
+Unsalted Butter,Sourdough Bread,dairy eggs,bakery,Cross-department,3,5419,1211,4208,0.22347296549178816,3.14597308673124,210,1077.7847786285517,Recipe bundle / 'Complete the meal' prompt
+Taco Seasoning,Shredded Mexican Cheese Blend,pantry,dairy eggs,Cross-department,3,3009,1243,1766,0.4130940511797939,4.371801635930352,88,1076.175850242526,Recipe bundle / 'Complete the meal' prompt
+Jasmine Rice,Soy Sauce,dry goods pasta,international,Cross-department,1,2713,819,1894,0.3018798378179138,6.553572952839157,95,1074.9155166514913,Recipe bundle / 'Complete the meal' prompt
+Trash Bags,Dish Soap,household,household,Same department,1,2115,816,1299,0.38581560283687943,8.39416039279869,65,1066.266859831377,Shelf adjacency / 'Frequently bought together'
+Organic Hass Avocado,Organic Baby Spinach,produce,produce,Same department,3,10991,3973,7018,0.36147757255936674,1.520915964720416,351,1063.7334136432992,Shelf adjacency / 'Frequently bought together'
+Boneless Skinless Chicken Breasts,Soy Sauce,meat seafood,international,Cross-department,1,4806,922,3884,0.19184352892218062,4.164771557482971,194,1063.0343416877827,Recipe bundle / 'Complete the meal' prompt
+Jalapeno Peppers,Limes,produce,produce,Same department,3,5202,2073,3129,0.3985005767012687,2.321085319484902,156,1049.940292544355,Shelf adjacency / 'Frequently bought together'
+Sharp Cheddar Cheese Slices,Hamburger Buns,dairy eggs,bakery,Cross-department,1,4513,1046,3467,0.23177487259029472,3.682876683339267,173,1047.6010156972297,Recipe bundle / 'Complete the meal' prompt
+Organic Whole Wheat Bread,Strawberry Jam,bakery,pantry,Cross-department,1,5524,1079,4445,0.195329471397538,3.341936690550964,222,1047.574791484273,Recipe bundle / 'Complete the meal' prompt
+Baby Wipes Sensitive,Organic Baby Puffs,babies,babies,Same department,1,2083,692,1391,0.3322131541046568,9.644313483119177,70,1047.308125962284,Shelf adjacency / 'Frequently bought together'
+Honey,Granola,pantry,breakfast,Cross-department,1,2590,841,1749,0.3247104247104247,6.300349624418617,87,1045.3137636768015,Recipe bundle / 'Complete the meal' prompt
+Toilet Paper 12 Rolls,Paper Towels,household,household,Same department,3,2561,904,1657,0.35298711440843417,5.940769534809339,83,1042.196815583766,Shelf adjacency / 'Frequently bought together'
+Trash Bags,Toilet Paper 12 Rolls,household,household,Same department,2,2115,850,1265,0.4018912529550827,7.767439026754287,63,1042.1742487124961,Shelf adjacency / 'Frequently bought together'
+Boneless Skinless Chicken Breasts,Jasmine Rice,meat seafood,dry goods pasta,Cross-department,2,4806,989,3817,0.20578443612151479,3.7544092276839724,191,1039.1347293302929,Recipe bundle / 'Complete the meal' prompt
+Large Grade A Eggs,Sourdough Bread,dairy eggs,bakery,Cross-department,3,7036,1318,5718,0.18732234223990907,2.637057444211826,286,1038.615654755575,Recipe bundle / 'Complete the meal' prompt
+Granola,Honey,breakfast,pantry,Cross-department,1,2551,841,1710,0.3296746373970991,6.300349624418616,86,1037.6294160471568,Recipe bundle / 'Complete the meal' prompt
+Yellow Onions,Limes,produce,produce,Same department,3,5884,2156,3728,0.3664174031271244,2.1342153686259446,186,1035.5664221977563,Shelf adjacency / 'Frequently bought together'
+Dish Soap,Toilet Paper 12 Rolls,household,household,Same department,2,2275,834,1441,0.3665934065934066,7.085229928213138,72,1034.3417426955157,Shelf adjacency / 'Frequently bought together'
+Strawberry Jam,Creamy Peanut Butter,pantry,pantry,Same department,1,2893,1020,1873,0.35257518147251987,4.787767834662638,94,1034.1870714960614,Shelf adjacency / 'Frequently bought together'
+Size 4 Diapers,Organic Baby Puffs,babies,babies,Same department,1,1950,683,1267,0.35025641025641024,10.168118204376269,63,1029.2280483745647,Shelf adjacency / 'Frequently bought together'
+Sharp Cheddar Cheese Slices,Yellow Mustard,dairy eggs,pantry,Cross-department,2,4513,1016,3497,0.2251274097052958,3.6848979491345983,175,1026.7919736922488,Recipe bundle / 'Complete the meal' prompt
+Hamburger Buns,Tomato Ketchup,bakery,pantry,Cross-department,2,3115,1043,2072,0.3348314606741573,4.3925663421650585,104,1026.7208531040717,Recipe bundle / 'Complete the meal' prompt
+Organic Grape Tomatoes,Pita Chips,produce,snacks,Cross-department,1,5419,1026,4393,0.18933382542904598,3.4340257813343675,220,1026.1496221193709,Recipe bundle / 'Complete the meal' prompt
+Organic Stage 2 Pear Baby Food,Organic Baby Puffs,babies,babies,Same department,1,1933,679,1254,0.3512674599068805,10.197469479771769,63,1022.8778665551058,Shelf adjacency / 'Frequently bought together'
+Cucumber Kirby,Pita Chips,produce,snacks,Cross-department,1,5538,1032,4506,0.18634886240520043,3.379886274265374,225,1022.6073339099677,Recipe bundle / 'Complete the meal' prompt
+Total 0% Nonfat Plain Greek Yogurt,Granola,dairy eggs,breakfast,Cross-department,1,4637,932,3705,0.20099202070304076,3.899844001857471,185,1013.4560217926604,Recipe bundle / 'Complete the meal' prompt
+Soy Sauce,Frozen Broccoli Florets,international,frozen,Cross-department,1,2280,825,1455,0.36184210526315785,6.697867869936621,73,1001.2545034335091,Recipe bundle / 'Complete the meal' prompt
+Jasmine Rice,Frozen Broccoli Florets,dry goods pasta,frozen,Cross-department,2,2713,826,1887,0.30446000737191303,5.63569819928481,94,993.4077642699842,Recipe bundle / 'Complete the meal' prompt
+Organic Cilantro,Limes,produce,produce,Same department,3,5693,2072,3621,0.363955735113297,2.1198772676986186,181,990.2027299352563,Shelf adjacency / 'Frequently bought together'
+Frozen Broccoli Florets,Jasmine Rice,frozen,dry goods pasta,Cross-department,2,2674,826,1848,0.3089005235602095,5.63569819928481,92,987.0655793409014,Recipe bundle / 'Complete the meal' prompt
+Cheddar Bunnies,Fruit Snacks,snacks,snacks,Same department,1,2886,823,2063,0.2851697851697852,5.3506629478957,103,986.7176353448383,Shelf adjacency / 'Frequently bought together'
+Soy Sauce,Jasmine Rice,international,dry goods pasta,Cross-department,2,2280,819,1461,0.3592105263157895,6.553572952839157,73,986.641821111659,Recipe bundle / 'Complete the meal' prompt
+Boneless Skinless Chicken Breasts,Frozen Broccoli Florets,meat seafood,frozen,Cross-department,3,4806,948,3858,0.1972534332084894,3.651253995333059,193,985.5536295276677,Recipe bundle / 'Complete the meal' prompt
+Thick Cut Bacon,Unsalted Butter,meat seafood,dairy eggs,Cross-department,2,3841,1297,2544,0.33767248112470716,3.084291344939958,127,967.5542224528072,Recipe bundle / 'Complete the meal' prompt
+Organic Whole Wheat Bread,Creamy Peanut Butter,bakery,pantry,Cross-department,2,5524,1165,4359,0.2108979000724113,2.8638719780203403,218,967.2682140071313,Recipe bundle / 'Complete the meal' prompt
+Dish Soap,Paper Towels,household,household,Same department,3,2275,837,1438,0.36791208791208785,6.191956686631966,72,964.6048409086519,Shelf adjacency / 'Frequently bought together'
+Trash Bags,Paper Towels,household,household,Same department,3,2115,837,1278,0.39574468085106385,6.660378941885449,64,959.0133940468143,Shelf adjacency / 'Frequently bought together'
+Baby Wipes Sensitive,Organic Stage 2 Pear Baby Food,babies,babies,Same department,2,2083,670,1413,0.3216514642342775,8.236307566065202,71,958.3232786511413,Shelf adjacency / 'Frequently bought together'
+Organic Strawberry Yogurt,Fruit Snacks,dairy eggs,snacks,Cross-department,1,3626,845,2781,0.23303916161059018,4.372531987202192,139,956.1426167194126,Recipe bundle / 'Complete the meal' prompt
+Size 4 Diapers,Organic Stage 2 Pear Baby Food,babies,babies,Same department,2,1950,668,1282,0.3425641025641026,8.771803096024515,64,953.6701436678541,Shelf adjacency / 'Frequently bought together'
+Baby Wipes Sensitive,Size 4 Diapers,babies,babies,Same department,3,2083,667,1416,0.3202112337974076,8.127946379112968,71,950.0528155644299,Shelf adjacency / 'Frequently bought together'
+Fruit Snacks,Cheddar Bunnies,snacks,snacks,Same department,1,2638,823,1815,0.31197877179681577,5.3506629478956995,91,949.711785085839,Shelf adjacency / 'Frequently bought together'
+Organic Baby Puffs,Size 4 Diapers,babies,babies,Same department,1,1705,683,1022,0.4005865102639296,10.168118204376269,51,949.5025206080217,Shelf adjacency / 'Frequently bought together'
+Organic Stage 2 Pear Baby Food,Size 4 Diapers,babies,babies,Same department,2,1933,668,1265,0.3455768235902742,8.771803096024515,63,949.2999197341353,Shelf adjacency / 'Frequently bought together'
+Organic Baby Puffs,Organic Stage 2 Pear Baby Food,babies,babies,Same department,2,1705,679,1026,0.39824046920821116,10.197469479771769,51,948.8139826424515,Shelf adjacency / 'Frequently bought together'
+Organic Strawberry Yogurt,Cheddar Bunnies,dairy eggs,snacks,Cross-department,2,3626,878,2748,0.2421400992829564,4.1528788961221395,137,947.3991337386113,Recipe bundle / 'Complete the meal' prompt
+Pita Chips,Classic Hummus,snacks,deli,Cross-department,1,2729,996,1733,0.3649688530597288,4.447282944337124,87,943.8621373541267,Recipe bundle / 'Complete the meal' prompt
+Total 0% Nonfat Plain Greek Yogurt,Honey,dairy eggs,pantry,Cross-department,2,4637,894,3743,0.1927970670692258,3.6845082736391777,187,941.1167263255255,Recipe bundle / 'Complete the meal' prompt
+Sharp Cheddar Cheese Slices,Tomato Ketchup,dairy eggs,pantry,Cross-department,3,4513,1079,3434,0.23908708176379345,3.136520881543198,172,938.5253689907953,Recipe bundle / 'Complete the meal' prompt
+Organic Baby Puffs,Baby Wipes Sensitive,babies,babies,Same department,3,1705,692,1013,0.4058651026392962,9.644313483119177,51,931.7977880941243,Shelf adjacency / 'Frequently bought together'
+Organic Stage 2 Pear Baby Food,Baby Wipes Sensitive,babies,babies,Same department,3,1933,670,1263,0.3466114847387481,8.236307566065202,63,923.0615106603796,Shelf adjacency / 'Frequently bought together'
+Size 4 Diapers,Baby Wipes Sensitive,babies,babies,Same department,3,1950,667,1283,0.3420512820512821,8.127946379112968,64,919.5298055247603,Shelf adjacency / 'Frequently bought together'
+Sourdough Bread,Unsalted Butter,bakery,dairy eggs,Cross-department,2,3516,1211,2305,0.34442548350398183,3.14597308673124,115,909.9080955805523,Recipe bundle / 'Complete the meal' prompt
+Hamburger Buns,Sharp Cheddar Cheese Slices,bakery,dairy eggs,Cross-department,3,3115,1046,2069,0.33579454253611557,3.6828766833392668,103,905.7531276241588,Recipe bundle / 'Complete the meal' prompt
+Organic Raspberries,Bag of Organic Bananas,produce,produce,Same department,3,8713,4328,4385,0.4967290255939401,1.5142327141604515,219,903.7365265385325,Shelf adjacency / 'Frequently bought together'
+Cucumber Kirby,Classic Hummus,produce,deli,Cross-department,2,5538,1191,4347,0.2150595882990249,2.6205820881429926,217,900.64470128062,Recipe bundle / 'Complete the meal' prompt
+Cream Cheese,Plain Bagels,dairy eggs,bakery,Cross-department,1,3606,860,2746,0.2384914032168608,3.93224816289972,137,896.6929202919567,Recipe bundle / 'Complete the meal' prompt
+Tomato Ketchup,Sharp Cheddar Cheese Slices,pantry,dairy eggs,Cross-department,3,3773,1079,2694,0.2859793267956533,3.1365208815431975,135,880.6875264248586,Recipe bundle / 'Complete the meal' prompt
+Yellow Mustard,Sharp Cheddar Cheese Slices,pantry,dairy eggs,Cross-department,3,3024,1016,2008,0.33597883597883593,3.6848979491345983,100,879.9015607448508,Recipe bundle / 'Complete the meal' prompt
+Organic Grape Tomatoes,Classic Hummus,produce,deli,Cross-department,2,5419,1162,4257,0.21443070677246723,2.6129189298662756,213,876.7454269518353,Recipe bundle / 'Complete the meal' prompt
+Cola Soda 12 Pack,Frozen Pepperoni Pizza,beverages,frozen,Cross-department,1,2857,739,2118,0.25866293314665734,4.916681721182833,106,872.5214199351979,Recipe bundle / 'Complete the meal' prompt
+Cheddar Bunnies,Organic Strawberry Yogurt,snacks,dairy eggs,Cross-department,2,2886,878,2008,0.3042273042273042,4.1528788961221395,100,869.7840440302452,Recipe bundle / 'Complete the meal' prompt
+Thick Cut Bacon,Large Grade A Eggs,meat seafood,dairy eggs,Cross-department,3,3841,1423,2418,0.37047643842749284,2.6062353997790813,121,858.1044373281236,Recipe bundle / 'Complete the meal' prompt
+Fruit Snacks,Organic Strawberry Yogurt,snacks,dairy eggs,Cross-department,2,2638,845,1793,0.3203184230477635,4.372531987202192,90,847.334686459086,Recipe bundle / 'Complete the meal' prompt
+Marinara Sauce,Organic Garlic,dry goods pasta,produce,Cross-department,3,5079,1885,3194,0.3711360504036228,2.042940512325191,160,846.8442446997786,Recipe bundle / 'Complete the meal' prompt
+Original Potato Chips,Cola Soda 12 Pack,snacks,beverages,Cross-department,1,3061,768,2293,0.2508983992159425,4.3467686615301036,115,845.3793886144546,Recipe bundle / 'Complete the meal' prompt
+Frozen Pepperoni Pizza,Cola Soda 12 Pack,frozen,beverages,Cross-department,1,2604,739,1865,0.2837941628264209,4.916681721182834,93,842.9430578306591,Recipe bundle / 'Complete the meal' prompt
+Plain Bagels,Cream Cheese,bakery,dairy eggs,Cross-department,1,3002,860,2142,0.2864756828780813,3.9322481628997195,107,840.1903882925983,Recipe bundle / 'Complete the meal' prompt
+Dry Dog Food,Dog Treats,pets,pets,Same department,1,1696,523,1173,0.308372641509434,10.175680424528302,59,839.1931891946232,Shelf adjacency / 'Frequently bought together'
+Organic Half & Half,Medium Roast Ground Coffee,dairy eggs,beverages,Cross-department,1,5609,1262,4347,0.22499554287751825,2.3519755830641014,217,836.4875978624441,Recipe bundle / 'Complete the meal' prompt
+Creamy Peanut Butter,Organic Whole Wheat Bread,pantry,bakery,Cross-department,2,3645,1165,2480,0.31961591220850477,2.8638719780203403,124,834.0034850969753,Recipe bundle / 'Complete the meal' prompt
+Jasmine Rice,Boneless Skinless Chicken Breasts,dry goods pasta,meat seafood,Cross-department,3,2713,989,1724,0.36454109841503873,3.7544092276839724,86,831.4208934339695,Recipe bundle / 'Complete the meal' prompt
+Original Potato Chips,Frozen Pepperoni Pizza,snacks,frozen,Cross-department,2,3061,722,2339,0.23587063051290427,4.4834441622493175,117,827.7681188210972,Recipe bundle / 'Complete the meal' prompt
+Grated Parmesan,Organic Garlic,dairy eggs,produce,Cross-department,3,4087,1706,2381,0.41742109126498655,2.2977192787303204,119,826.825363352671,Recipe bundle / 'Complete the meal' prompt
+Cola Soda 12 Pack,Original Potato Chips,beverages,snacks,Cross-department,2,2857,768,2089,0.2688134406720336,4.3467686615301036,104,825.1618283031415,Recipe bundle / 'Complete the meal' prompt
+Shredded Mozzarella,Penne Rigate,dairy eggs,dry goods pasta,Cross-department,1,3289,725,2564,0.22043174217087264,4.293864597493775,128,823.5832237417785,Recipe bundle / 'Complete the meal' prompt
+Strawberry Jam,Organic Whole Wheat Bread,pantry,bakery,Cross-department,2,2893,1079,1814,0.37296923608710675,3.3419366905509635,91,816.3112707769967,Recipe bundle / 'Complete the meal' prompt
+Classic Hummus,Cucumber Kirby,deli,produce,Cross-department,2,4062,1191,2871,0.293205317577548,2.620582088142992,144,810.9798860242693,Recipe bundle / 'Complete the meal' prompt
+Organic Romaine Lettuce,Oven Roasted Turkey Breast,produce,deli,Cross-department,1,3806,792,3014,0.20809248554913293,3.636989321054178,151,809.8012460039481,Recipe bundle / 'Complete the meal' prompt
+Granola,Total 0% Nonfat Plain Greek Yogurt,breakfast,dairy eggs,Cross-department,2,2551,932,1619,0.36534692277538217,3.899844001857471,81,804.9894363113515,Recipe bundle / 'Complete the meal' prompt
+Sourdough Bread,Large Grade A Eggs,bakery,dairy eggs,Cross-department,3,3516,1318,2198,0.37485779294653016,2.6370574442118255,110,798.9422085058206,Recipe bundle / 'Complete the meal' prompt
+Spaghetti,Organic Garlic,dry goods pasta,produce,Cross-department,3,4052,1660,2392,0.4096742349457058,2.2550762463420377,120,796.871943934351,Recipe bundle / 'Complete the meal' prompt
+Classic Hummus,Organic Grape Tomatoes,deli,produce,Cross-department,3,4062,1162,2900,0.2860659773510586,2.6129189298662756,145,796.7958968089276,Recipe bundle / 'Complete the meal' prompt
+Beef Hot Dogs,Hot Dog Buns,meat seafood,bakery,Cross-department,1,2121,574,1547,0.2706270627062706,6.684245370644849,77,795.3508504352445,Recipe bundle / 'Complete the meal' prompt
+Frozen Broccoli Florets,Boneless Skinless Chicken Breasts,frozen,meat seafood,Cross-department,3,2674,948,1726,0.35452505609573676,3.651253995333059,86,792.4670126919838,Recipe bundle / 'Complete the meal' prompt
+Medium Roast Ground Coffee,Organic Half & Half,beverages,dairy eggs,Cross-department,1,4735,1262,3473,0.2665258711721225,2.351975583064102,174,791.6625594586951,Recipe bundle / 'Complete the meal' prompt
+Dog Treats,Dry Dog Food,pets,pets,Same department,1,1500,523,977,0.3486666666666667,10.175680424528302,49,790.3020181585547,Shelf adjacency / 'Frequently bought together'
+Pita Chips,Organic Grape Tomatoes,snacks,produce,Cross-department,2,2729,1026,1703,0.37596189080249176,3.434025781334367,85,789.9138881426982,Recipe bundle / 'Complete the meal' prompt
+Soy Sauce,Boneless Skinless Chicken Breasts,international,meat seafood,Cross-department,3,2280,922,1358,0.40438596491228074,4.164771557482971,68,783.4598822738488,Recipe bundle / 'Complete the meal' prompt
+Frozen Pepperoni Pizza,Original Potato Chips,frozen,snacks,Cross-department,2,2604,722,1882,0.2772657450076805,4.4834441622493175,94,782.9255078418531,Recipe bundle / 'Complete the meal' prompt
+Pita Chips,Cucumber Kirby,snacks,produce,Cross-department,3,2729,1032,1697,0.3781604983510443,3.379886274265374,85,781.5359747187131,Recipe bundle / 'Complete the meal' prompt
+Hot Dog Buns,Beef Hot Dogs,bakery,meat seafood,Cross-department,1,2004,574,1430,0.28642714570858285,6.68424537064485,72,778.1215171130299,Recipe bundle / 'Complete the meal' prompt
+Medium Roast Ground Coffee,Original Hazelnut Coffee Creamer,beverages,dairy eggs,Cross-department,2,4735,906,3829,0.19134107708553327,2.8786654384506503,191,774.6451746771428,Recipe bundle / 'Complete the meal' prompt
+Honey,Total 0% Nonfat Plain Greek Yogurt,pantry,dairy eggs,Cross-department,2,2590,894,1696,0.3451737451737452,3.6845082736391777,85,763.4609787857901,Recipe bundle / 'Complete the meal' prompt
+Pure Maple Syrup,Buttermilk Pancake Mix,pantry,breakfast,Cross-department,1,1987,542,1445,0.2727730246602919,6.906110691360854,72,761.6716388023723,Recipe bundle / 'Complete the meal' prompt
+Buttermilk Pancake Mix,Pure Maple Syrup,breakfast,pantry,Cross-department,1,1955,542,1413,0.2772378516624041,6.906110691360854,71,756.9953379843515,Recipe bundle / 'Complete the meal' prompt
+Penne Rigate,Shredded Mozzarella,dry goods pasta,dairy eggs,Cross-department,1,2541,725,1816,0.2853207398661944,4.293864597493775,91,755.0305481157785,Recipe bundle / 'Complete the meal' prompt
+Oven Roasted Turkey Breast,Organic Romaine Lettuce,deli,produce,Cross-department,1,2832,792,2040,0.2796610169491525,3.636989321054178,102,736.6155711052862,Recipe bundle / 'Complete the meal' prompt
+Cucumber Kirby,Organic Grape Tomatoes,produce,produce,Same department,3,5538,1281,4257,0.2313109425785482,2.112787917477468,213,736.5568657760219,Shelf adjacency / 'Frequently bought together'
+Organic Grape Tomatoes,Cucumber Kirby,produce,produce,Same department,3,5419,1281,4138,0.2363904779479609,2.1127879174774686,207,731.6896615207107,Shelf adjacency / 'Frequently bought together'
+Wet Cat Food,Cat Litter,pets,pets,Same department,1,1515,398,1117,0.2627062706270627,11.316947151634224,56,711.9809148723236,Shelf adjacency / 'Frequently bought together'
+Organic Whole Wheat Bread,Oven Roasted Turkey Breast,bakery,deli,Cross-department,3,5524,843,4681,0.15260680666183926,2.6672242617729727,234,700.8071458494923,Recipe bundle / 'Complete the meal' prompt
+Original Hazelnut Coffee Creamer,Medium Roast Ground Coffee,dairy eggs,beverages,Cross-department,1,3290,906,2384,0.2753799392097264,2.8786654384506503,119,694.1411485851067,Recipe bundle / 'Complete the meal' prompt
+Shredded Mozzarella,Marinara Sauce,dairy eggs,dry goods pasta,Cross-department,2,3289,922,2367,0.2803283672848891,2.7319183294940252,118,666.8576170752384,Recipe bundle / 'Complete the meal' prompt
+Organic Romaine Lettuce,Sharp Cheddar Cheese Slices,produce,dairy eggs,Cross-department,2,3806,909,2897,0.23883342091434578,2.61944113339184,145,666.2731118298805,Recipe bundle / 'Complete the meal' prompt
+Hot Dog Buns,Yellow Mustard,bakery,pantry,Cross-department,2,2004,589,1415,0.2939121756487026,4.810770819472166,71,653.2971429643164,Recipe bundle / 'Complete the meal' prompt
+Penne Rigate,Marinara Sauce,dry goods pasta,dry goods pasta,Same department,2,2541,833,1708,0.3278236914600551,3.194780322149704,85,650.3606703745073,Shelf adjacency / 'Frequently bought together'
+Oven Roasted Turkey Breast,Sharp Cheddar Cheese Slices,deli,dairy eggs,Cross-department,2,2832,800,2032,0.2824858757062147,3.0982059361468,102,649.1053023196948,Recipe bundle / 'Complete the meal' prompt
+Beef Hot Dogs,Yellow Mustard,meat seafood,pantry,Cross-department,2,2121,590,1531,0.2781706742102782,4.553113049400178,77,645.5526100549879,Recipe bundle / 'Complete the meal' prompt
+Hot Dog Buns,Tomato Ketchup,bakery,pantry,Cross-department,3,2004,647,1357,0.32285429141716565,4.2354409918567315,68,632.4110132185261,Recipe bundle / 'Complete the meal' prompt
+Cat Litter,Wet Cat Food,pets,pets,Same department,1,1149,398,751,0.3463881636205396,11.316947151634224,38,631.1719938708989,Shelf adjacency / 'Frequently bought together'
+Granulated Sugar,Semi-Sweet Chocolate Chips,pantry,pantry,Same department,1,1834,392,1442,0.21374045801526717,7.1098867274070425,72,604.5570331528643,Shelf adjacency / 'Frequently bought together'
+Organic Blueberries,Total 0% Nonfat Plain Greek Yogurt,produce,dairy eggs,Cross-department,3,9336,1429,7907,0.15306341045415595,1.6338537043884747,395,594.1728926871142,Recipe bundle / 'Complete the meal' prompt
+Organic Romaine Lettuce,Organic Whole Wheat Bread,produce,bakery,Cross-department,3,3806,966,2840,0.25380977404098787,2.2742256310113644,142,592.2540668630506,Recipe bundle / 'Complete the meal' prompt
+Beef Hot Dogs,Tomato Ketchup,meat seafood,pantry,Cross-department,3,2121,613,1508,0.28901461574728904,3.791507139052098,75,580.8637457826181,Recipe bundle / 'Complete the meal' prompt
+Oven Roasted Turkey Breast,Organic Whole Wheat Bread,deli,bakery,Cross-department,3,2832,843,1989,0.29766949152542377,2.6672242617729727,99,580.8380843232403,Recipe bundle / 'Complete the meal' prompt
+All-Purpose Flour,Semi-Sweet Chocolate Chips,pantry,pantry,Same department,1,1862,380,1482,0.2040816326530612,6.788594470046082,74,579.2635693188172,Shelf adjacency / 'Frequently bought together'
+All-Purpose Flour,Granulated Sugar,pantry,pantry,Same department,2,1862,411,1451,0.22073039742212675,5.957193283098695,73,571.5711650498794,Shelf adjacency / 'Frequently bought together'
+Granulated Sugar,All-Purpose Flour,pantry,pantry,Same department,2,1834,411,1423,0.22410032715376227,5.957193283098696,71,569.099421437046,Shelf adjacency / 'Frequently bought together'
+Semi-Sweet Chocolate Chips,Granulated Sugar,pantry,pantry,Same department,1,1488,392,1096,0.2634408602150538,7.109886727407043,55,566.3422629707934,Shelf adjacency / 'Frequently bought together'
+Chicken Noodle Soup,Organic Chicken Broth,canned goods,canned goods,Same department,1,2237,452,1785,0.20205632543585156,4.757936222691886,89,562.57896181645,Shelf adjacency / 'Frequently bought together'
+Organic Chicken Broth,Chicken Noodle Soup,canned goods,canned goods,Same department,1,2102,452,1650,0.2150333016175071,4.757936222691886,82,553.4297273272108,Shelf adjacency / 'Frequently bought together'
+Semi-Sweet Chocolate Chips,All-Purpose Flour,pantry,pantry,Same department,2,1488,380,1108,0.2553763440860215,6.788594470046083,55,541.9316533198448,Shelf adjacency / 'Frequently bought together'
+Extra Virgin Olive Oil,Atlantic Salmon Fillet,pantry,meat seafood,Cross-department,1,2917,494,2423,0.16935207404868016,3.6540626020869755,121,531.7349152119385,Recipe bundle / 'Complete the meal' prompt
+Atlantic Salmon Fillet,Extra Virgin Olive Oil,meat seafood,pantry,Cross-department,1,2294,494,1800,0.2153443766346992,3.654062602086975,90,502.2931838213855,Recipe bundle / 'Complete the meal' prompt
+Granola,Organic Blueberries,breakfast,produce,Cross-department,3,2551,1067,1484,0.41826734613876915,2.2175427197762057,74,494.33225556213296,Recipe bundle / 'Complete the meal' prompt
+Honey,Organic Blueberries,pantry,produce,Cross-department,3,2590,1069,1521,0.41274131274131276,2.188245153894254,76,491.61410685017927,Recipe bundle / 'Complete the meal' prompt
+Total 0% Nonfat Plain Greek Yogurt,Organic Blueberries,dairy eggs,produce,Cross-department,3,4637,1429,3208,0.30817338796635757,1.6338537043884747,160,485.35465864142435,Recipe bundle / 'Complete the meal' prompt
+IPA Beer 6 Pack,Guacamole,alcohol,deli,Cross-department,1,1755,508,1247,0.28945868945868947,3.740818995335967,62,476.20956232980984,Recipe bundle / 'Complete the meal' prompt
+Vanilla Ice Cream,Dark Chocolate Bar,frozen,snacks,Cross-department,1,2617,419,2198,0.16010699273977838,3.8563580630855525,110,474.988080389703,Recipe bundle / 'Complete the meal' prompt
+Chicken Noodle Soup,Carrots,canned goods,produce,Cross-department,2,2237,515,1722,0.23021904336164506,3.1151317630594164,86,450.46026409744934,Recipe bundle / 'Complete the meal' prompt
+Dark Chocolate Bar,Vanilla Ice Cream,snacks,frozen,Cross-department,1,2055,419,1636,0.20389294403892946,3.8563580630855525,82,450.22563472598165,Recipe bundle / 'Complete the meal' prompt
+Atlantic Salmon Fillet,Organic Zucchini,meat seafood,produce,Cross-department,2,2294,578,1716,0.25196163905841323,2.7182531055959633,86,432.36160398096405,Recipe bundle / 'Complete the meal' prompt
+Pure Maple Syrup,Large Grade A Eggs,pantry,dairy eggs,Cross-department,2,1987,705,1282,0.35480624056366383,2.4959983640107546,64,416.0568091924962,Recipe bundle / 'Complete the meal' prompt
+Buttermilk Pancake Mix,Large Grade A Eggs,breakfast,dairy eggs,Cross-department,2,1955,700,1255,0.35805626598465473,2.518861710836051,63,415.1225243420867,Recipe bundle / 'Complete the meal' prompt
+IPA Beer 6 Pack,Tortilla Chips,alcohol,snacks,Cross-department,2,1755,512,1243,0.2917378917378917,2.8914998853324843,62,385.03181016951044,Recipe bundle / 'Complete the meal' prompt
+Pure Maple Syrup,Organic Whole Milk,pantry,dairy eggs,Cross-department,3,1987,753,1234,0.3789632611977856,2.275848645899878,62,384.56570977507215,Recipe bundle / 'Complete the meal' prompt
+Buttermilk Pancake Mix,Organic Whole Milk,breakfast,dairy eggs,Cross-department,3,1955,746,1209,0.38158567774936064,2.291597463183706,60,382.56338812082095,Recipe bundle / 'Complete the meal' prompt
+Organic Chicken Broth,Carrots,canned goods,produce,Cross-department,2,2102,450,1652,0.21408182683158894,2.896776430476533,83,376.15564076742146,Recipe bundle / 'Complete the meal' prompt
+Granulated Sugar,Unsalted Butter,pantry,dairy eggs,Cross-department,3,1834,531,1303,0.2895310796074154,2.644569080518221,65,366.88744276163544,Recipe bundle / 'Complete the meal' prompt
+Extra Virgin Olive Oil,Organic Zucchini,pantry,produce,Cross-department,2,2917,585,2332,0.20054850874185806,2.16358969860413,117,360.9401269026636,Recipe bundle / 'Complete the meal' prompt
+Semi-Sweet Chocolate Chips,Unsalted Butter,pantry,dairy eggs,Cross-department,3,1488,474,1014,0.3185483870967742,2.909612385334754,51,344.9790315242188,Recipe bundle / 'Complete the meal' prompt
+All-Purpose Flour,Large Grade A Eggs,pantry,dairy eggs,Cross-department,3,1862,605,1257,0.3249194414607948,2.2857500844208305,63,337.6415495708287,Recipe bundle / 'Complete the meal' prompt
+Organic Zucchini,Organic Lemon,produce,produce,Same department,1,4588,983,3605,0.21425457715780294,1.5283122648191054,180,327.6191023205344,Shelf adjacency / 'Frequently bought together'
+Extra Virgin Olive Oil,Organic Lemon,pantry,produce,Cross-department,3,2917,725,2192,0.2485430236544395,1.7728972534693461,110,311.96430469244666,Recipe bundle / 'Complete the meal' prompt
+Atlantic Salmon Fillet,Organic Lemon,meat seafood,produce,Cross-department,3,2294,605,1689,0.26373147340889275,1.8812389017610556,84,281.4886978938529,Recipe bundle / 'Complete the meal' prompt

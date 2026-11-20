@@ -1,0 +1,6 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+networkx>=3.0
+# optional: download the real Instacart dataset
+kaggle>=1.6

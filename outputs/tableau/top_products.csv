@@ -1,0 +1,121 @@
+product_id,product_name,department,aisle,orders_with_product,support,reorder_rate,avg_cart_position
+1,Banana,produce,fresh fruits,16683,0.3371,0.7864,5.68
+2,Bag of Organic Bananas,produce,fresh fruits,16237,0.328,0.7795,5.79
+3,Organic Strawberries,produce,fresh fruits,13065,0.264,0.7432,5.87
+4,Organic Baby Spinach,produce,packaged vegetables fruits,11764,0.2377,0.7247,5.82
+5,Organic Hass Avocado,produce,fresh fruits,10991,0.2221,0.7113,5.93
+11,Organic Blueberries,produce,fresh fruits,9336,0.1886,0.6852,6.05
+6,Organic Avocado,produce,fresh fruits,9221,0.1863,0.6802,6.06
+13,Organic Garlic,produce,fresh vegetables,8992,0.1817,0.6764,6.1
+10,Organic Raspberries,produce,fresh fruits,8713,0.176,0.672,5.99
+8,Limes,produce,fresh fruits,8498,0.1717,0.667,6.0
+29,Organic Whole Milk,dairy eggs,milk,8242,0.1665,0.6663,5.8
+32,Large Grade A Eggs,dairy eggs,eggs,7036,0.1422,0.6271,6.07
+21,Organic Lemon,produce,fresh fruits,6939,0.1402,0.6309,6.22
+7,Large Lemon,produce,fresh fruits,6623,0.1338,0.6126,5.78
+78,Sparkling Water Grapefruit,beverages,water seltzer sparkling water,6589,0.1331,0.6154,5.86
+9,Strawberries,produce,fresh fruits,6171,0.1247,0.6134,5.79
+22,Yellow Onions,produce,fresh vegetables,5884,0.1189,0.5972,6.15
+19,Organic Cilantro,produce,fresh herbs,5693,0.115,0.59,6.2
+30,Organic Half & Half,dairy eggs,cream,5609,0.1133,0.5819,5.84
+15,Cucumber Kirby,produce,fresh vegetables,5538,0.1119,0.578,5.98
+51,Ground Beef 85% Lean,meat seafood,meat counter,5529,0.1117,0.5773,6.4
+44,Organic Whole Wheat Bread,bakery,bread,5524,0.1116,0.5684,6.02
+80,Lime Sparkling Water,beverages,water seltzer sparkling water,5498,0.1111,0.5811,5.92
+18,Organic Grape Tomatoes,produce,fresh vegetables,5419,0.1095,0.5937,5.87
+33,Unsalted Butter,dairy eggs,butter,5419,0.1095,0.5794,6.13
+63,Medium Salsa,pantry,preserved dips spreads,5418,0.1095,0.5646,6.35
+12,Organic Yellow Onion,produce,fresh vegetables,5399,0.1091,0.5901,5.76
+20,Jalapeno Peppers,produce,fresh vegetables,5202,0.1051,0.5709,6.24
+55,Marinara Sauce,dry goods pasta,pasta sauce,5079,0.1026,0.5659,6.03
+85,Tortilla Chips,snacks,chips pretzels,4994,0.1009,0.5531,5.98
+31,Organic Large Extra Fancy Grade AA Brown Eggs,dairy eggs,eggs,4961,0.1002,0.5622,5.76
+50,Boneless Skinless Chicken Breasts,meat seafood,poultry counter,4806,0.0971,0.5753,5.76
+81,Medium Roast Ground Coffee,beverages,coffee,4735,0.0957,0.5472,5.93
+34,Shredded Mexican Cheese Blend,dairy eggs,packaged cheese,4677,0.0945,0.5561,6.23
+39,Total 0% Nonfat Plain Greek Yogurt,dairy eggs,yogurt,4637,0.0937,0.5583,5.96
+14,Organic Zucchini,produce,fresh vegetables,4588,0.0927,0.5532,5.83
+36,Sharp Cheddar Cheese Slices,dairy eggs,packaged cheese,4513,0.0912,0.5356,6.3
+16,Organic Fuji Apple,produce,fresh fruits,4483,0.0906,0.5523,5.77
+35,Sour Cream,dairy eggs,other creams cheeses,4445,0.0898,0.5469,6.25
+17,Apple Honeycrisp Organic,produce,fresh fruits,4196,0.0848,0.5503,5.74
+43,Unsweetened Almondmilk,dairy eggs,soy lactosefree,4178,0.0844,0.5402,5.85
+37,Grated Parmesan,dairy eggs,packaged cheese,4087,0.0826,0.5275,6.05
+87,Classic Hummus,deli,fresh dips tapenades,4062,0.0821,0.5268,6.1
+56,Spaghetti,dry goods pasta,dry pasta,4052,0.0819,0.5237,6.15
+47,Flour Tortillas,bakery,tortillas flat bread,3927,0.0793,0.5177,6.41
+52,Thick Cut Bacon,meat seafood,hot dogs bacon sausage,3841,0.0776,0.5184,6.06
+95,Guacamole,deli,fresh dips tapenades,3830,0.0774,0.5044,6.04
+25,Organic Romaine Lettuce,produce,packaged vegetables fruits,3806,0.0769,0.5192,5.98
+61,Tomato Ketchup,pantry,condiments,3773,0.0762,0.497,6.42
+79,Spring Water,beverages,water seltzer sparkling water,3758,0.0759,0.5255,5.75
+24,Carrots,produce,fresh vegetables,3658,0.0739,0.5189,5.95
+59,Creamy Peanut Butter,pantry,spreads,3645,0.0736,0.5119,5.94
+40,Organic Strawberry Yogurt,dairy eggs,yogurt,3626,0.0733,0.516,5.94
+42,Cream Cheese,dairy eggs,other creams cheeses,3606,0.0729,0.5064,5.89
+48,Sourdough Bread,bakery,bread,3516,0.071,0.5014,6.3
+41,Original Hazelnut Coffee Creamer,dairy eggs,cream,3290,0.0665,0.4857,5.8
+38,Shredded Mozzarella,dairy eggs,packaged cheese,3289,0.0664,0.4895,5.99
+23,Organic Red Bell Pepper,produce,fresh vegetables,3117,0.063,0.4889,5.83
+45,Hamburger Buns,bakery,buns rolls,3115,0.0629,0.462,6.27
+86,Original Potato Chips,snacks,chips pretzels,3061,0.0618,0.4603,5.98
+62,Yellow Mustard,pantry,condiments,3024,0.0611,0.4345,6.5
+64,Taco Seasoning,pantry,spices seasonings,3009,0.0608,0.456,6.55
+46,Plain Bagels,bakery,breakfast bakery,3002,0.0607,0.4727,5.92
+104,Paper Towels,household,paper goods,2941,0.0594,0.4689,6.17
+58,Extra Virgin Olive Oil,pantry,oils vinegars,2917,0.0589,0.4601,5.92
+60,Strawberry Jam,pantry,spreads,2893,0.0584,0.4632,6.08
+89,Cheddar Bunnies,snacks,crackers,2886,0.0583,0.4501,5.88
+83,Cola Soda 12 Pack,beverages,soft drinks,2857,0.0577,0.4599,6.07
+26,Seedless Red Grapes,produce,fresh fruits,2850,0.0576,0.4775,5.73
+94,Oven Roasted Turkey Breast,deli,lunch meat,2832,0.0572,0.4449,5.98
+88,Pita Chips,snacks,crackers,2729,0.0551,0.4602,6.29
+119,Jasmine Rice,dry goods pasta,grains rice dried goods,2713,0.0548,0.4519,6.14
+99,Frozen Broccoli Florets,frozen,frozen produce,2674,0.054,0.4574,6.09
+27,Russet Potatoes,produce,fresh vegetables,2639,0.0533,0.4911,5.91
+93,Fruit Snacks,snacks,fruit vegetable snacks,2638,0.0533,0.4526,6.06
+97,Vanilla Ice Cream,frozen,ice cream ice,2617,0.0529,0.4322,5.95
+98,Frozen Pepperoni Pizza,frozen,frozen pizza,2604,0.0526,0.4259,6.03
+65,Honey,pantry,honeys syrups nectars,2590,0.0523,0.4332,6.15
+105,Toilet Paper 12 Rolls,household,paper goods,2561,0.0517,0.4205,6.26
+77,Granola,breakfast,granola,2551,0.0515,0.4426,6.18
+57,Penne Rigate,dry goods pasta,dry pasta,2541,0.0513,0.4242,6.04
+74,Honey Nut Cheerios,breakfast,cereal,2515,0.0508,0.4732,5.87
+82,100% Orange Juice,beverages,refrigerated,2375,0.048,0.4455,5.65
+54,Atlantic Salmon Fillet,meat seafood,seafood counter,2294,0.0463,0.435,6.08
+118,Soy Sauce,international,asian foods,2280,0.0461,0.4259,6.26
+106,Dish Soap,household,dish detergents,2275,0.046,0.422,6.27
+72,Chicken Noodle Soup,canned goods,soup broth bouillon,2237,0.0452,0.4327,5.85
+28,Organic Kiwi,produce,fresh fruits,2143,0.0433,0.4442,5.74
+53,Beef Hot Dogs,meat seafood,hot dogs bacon sausage,2121,0.0429,0.3833,6.06
+108,Trash Bags,household,trash bags liners,2115,0.0427,0.4113,6.33
+73,Organic Chicken Broth,canned goods,soup broth bouillon,2102,0.0425,0.4068,5.85
+100,Baby Wipes Sensitive,babies,diapers wipes,2083,0.0421,0.4119,6.25
+90,Dark Chocolate Bar,snacks,candy chocolate,2055,0.0415,0.4039,5.79
+70,Organic Black Beans,canned goods,canned meals beans,2020,0.0408,0.4173,5.8
+49,Hot Dog Buns,bakery,buns rolls,2004,0.0405,0.3708,6.17
+66,Pure Maple Syrup,pantry,honeys syrups nectars,1987,0.0401,0.4142,6.08
+76,Buttermilk Pancake Mix,breakfast,hot cereal pancake mixes,1955,0.0395,0.4041,6.19
+101,Size 4 Diapers,babies,diapers wipes,1950,0.0394,0.3944,6.3
+102,Organic Stage 2 Pear Baby Food,babies,baby food formula,1933,0.0391,0.3983,6.09
+75,Old Fashioned Oats,breakfast,hot cereal pancake mixes,1910,0.0386,0.4424,5.85
+67,All-Purpose Flour,pantry,baking ingredients,1862,0.0376,0.4334,5.97
+68,Granulated Sugar,pantry,baking ingredients,1834,0.0371,0.3909,6.18
+71,Diced Tomatoes,canned goods,canned jarred vegetables,1820,0.0368,0.4132,5.84
+96,Frozen Organic Blueberries,frozen,frozen produce,1820,0.0368,0.4022,5.87
+115,IPA Beer 6 Pack,alcohol,beers coolers,1755,0.0355,0.3806,6.01
+103,Organic Baby Puffs,babies,baby food formula,1705,0.0344,0.3466,6.1
+111,Dry Dog Food,pets,dog food care,1696,0.0343,0.375,5.91
+113,Wet Cat Food,pets,cat food care,1515,0.0306,0.3564,5.97
+91,Mixed Nuts,snacks,nuts seeds dried fruit,1504,0.0304,0.4009,5.82
+112,Dog Treats,pets,dog food care,1500,0.0303,0.338,6.01
+69,Semi-Sweet Chocolate Chips,pantry,baking ingredients,1488,0.0301,0.3595,6.31
+92,Microwave Popcorn,snacks,popcorn jerky,1452,0.0293,0.4043,5.82
+84,Green Tea,beverages,tea,1257,0.0254,0.3803,5.7
+116,Cabernet Sauvignon,alcohol,red wines,1156,0.0234,0.41,5.81
+114,Cat Litter,pets,cat food care,1149,0.0232,0.3046,5.92
+107,Laundry Detergent,household,laundry,1111,0.0224,0.4014,5.74
+109,Toothpaste,personal care,oral hygiene,1066,0.0215,0.3677,5.81
+117,Lager Beer 12 Pack,alcohol,beers coolers,1066,0.0215,0.3649,5.71
+120,Coconut Milk,international,asian foods,1027,0.0207,0.3564,5.64
+110,Shampoo,personal care,hair care,827,0.0167,0.3434,5.83

@@ -1,0 +1,10 @@
+{
+  "name": "Market Basket Analysis",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "postCreateCommand": "pip install -r requirements.txt",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python", "mtxr.sqltools", "mtxr.sqltools-driver-sqlite"]
+    }
+  }
+}

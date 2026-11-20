@@ -1,0 +1,307 @@
+department_a,department_b,orders_together,confidence,lift
+frozen,international,1163,0.1288,1.965
+international,frozen,1163,0.3585,1.965
+international,dry goods pasta,1336,0.4118,1.78
+dry goods pasta,international,1336,0.1167,1.78
+international,meat seafood,1545,0.4763,1.465
+meat seafood,international,1545,0.096,1.465
+alcohol,deli,1112,0.2867,1.421
+deli,alcohol,1112,0.1114,1.421
+snacks,deli,4890,0.282,1.398
+deli,snacks,4890,0.4898,1.398
+bakery,meat seafood,7335,0.4152,1.277
+meat seafood,bakery,7335,0.4557,1.277
+frozen,dry goods pasta,2560,0.2834,1.225
+dry goods pasta,frozen,2560,0.2236,1.225
+bakery,pantry,9922,0.5616,1.194
+pantry,bakery,9922,0.4263,1.194
+meat seafood,pantry,8929,0.5547,1.18
+pantry,meat seafood,8929,0.3836,1.18
+alcohol,snacks,1593,0.4107,1.172
+snacks,alcohol,1593,0.0919,1.172
+pantry,breakfast,4523,0.1943,1.157
+breakfast,pantry,4523,0.5443,1.157
+frozen,snacks,3629,0.4018,1.147
+snacks,frozen,3629,0.2093,1.147
+frozen,meat seafood,3279,0.363,1.116
+meat seafood,frozen,3279,0.2037,1.116
+pantry,deli,5228,0.2246,1.114
+deli,pantry,5228,0.5236,1.114
+bakery,deli,3943,0.2232,1.106
+deli,bakery,3943,0.3949,1.106
+dry goods pasta,meat seafood,4103,0.3583,1.102
+meat seafood,dry goods pasta,4103,0.2549,1.102
+frozen,babies,1037,0.1148,1.1
+babies,frozen,1037,0.2007,1.1
+international,pets,337,0.1039,1.068
+pets,international,337,0.07,1.068
+bakery,dairy eggs,14360,0.8128,1.058
+dairy eggs,bakery,14360,0.3776,1.058
+pets,dry goods pasta,1177,0.2444,1.056
+dry goods pasta,pets,1177,0.1028,1.056
+frozen,beverages,3980,0.4407,1.055
+beverages,frozen,3980,0.1925,1.055
+alcohol,babies,427,0.1101,1.054
+babies,alcohol,427,0.0826,1.054
+pantry,snacks,8575,0.3684,1.052
+snacks,pantry,8575,0.4945,1.052
+dry goods pasta,dairy eggs,9227,0.8059,1.049
+dairy eggs,dry goods pasta,9227,0.2426,1.049
+meat seafood,dairy eggs,12892,0.8009,1.043
+dairy eggs,meat seafood,12892,0.339,1.043
+beverages,snacks,7510,0.3633,1.037
+snacks,beverages,7510,0.4331,1.037
+breakfast,dairy eggs,6606,0.7949,1.035
+breakfast,snacks,3012,0.3625,1.035
+dairy eggs,breakfast,6606,0.1737,1.035
+snacks,breakfast,3012,0.1737,1.035
+pantry,dairy eggs,18433,0.7919,1.031
+dairy eggs,pantry,18433,0.4847,1.031
+pets,canned goods,740,0.1537,1.029
+canned goods,pets,740,0.1001,1.029
+international,pantry,1568,0.4834,1.028
+pantry,international,1568,0.0674,1.028
+personal care,deli,389,0.2071,1.027
+deli,personal care,389,0.039,1.027
+babies,snacks,1858,0.3595,1.026
+snacks,babies,1858,0.1071,1.026
+frozen,alcohol,724,0.0802,1.023
+alcohol,frozen,724,0.1866,1.023
+pets,meat seafood,1602,0.3326,1.023
+personal care,household,299,0.1592,1.023
+meat seafood,pets,1602,0.0995,1.023
+household,personal care,299,0.0388,1.023
+international,deli,669,0.2062,1.022
+dairy eggs,deli,7837,0.2061,1.022
+deli,international,669,0.067,1.022
+deli,dairy eggs,7837,0.785,1.022
+personal care,canned goods,286,0.1523,1.02
+canned goods,personal care,286,0.0387,1.02
+international,household,514,0.1584,1.018
+household,international,514,0.0667,1.018
+babies,deli,1060,0.2051,1.017
+deli,babies,1060,0.1062,1.017
+pets,deli,987,0.2049,1.016
+deli,pets,987,0.0989,1.016
+frozen,canned goods,1368,0.1515,1.015
+canned goods,frozen,1368,0.1851,1.015
+breakfast,household,1311,0.1578,1.014
+household,breakfast,1311,0.1702,1.014
+beverages,dairy eggs,16084,0.778,1.013
+dairy eggs,beverages,16084,0.423,1.013
+pets,pantry,2290,0.4755,1.011
+pantry,pets,2290,0.0984,1.011
+personal care,meat seafood,616,0.328,1.009
+meat seafood,personal care,616,0.0383,1.009
+bakery,pets,1733,0.0981,1.008
+beverages,breakfast,3498,0.1692,1.008
+pets,bakery,1733,0.3598,1.008
+dry goods pasta,pantry,5427,0.474,1.008
+pantry,dry goods pasta,5427,0.2332,1.008
+breakfast,beverages,3498,0.4209,1.008
+dairy eggs,snacks,13425,0.353,1.008
+snacks,dairy eggs,13425,0.7742,1.008
+pets,dairy eggs,3723,0.773,1.006
+pantry,babies,2445,0.105,1.006
+canned goods,household,1157,0.1566,1.006
+dairy eggs,pets,3723,0.0979,1.006
+household,canned goods,1157,0.1502,1.006
+babies,pantry,2445,0.4731,1.006
+bakery,snacks,6221,0.3521,1.005
+pantry,canned goods,3493,0.1501,1.005
+canned goods,pantry,3493,0.4727,1.005
+snacks,bakery,6221,0.3587,1.005
+frozen,pantry,4254,0.471,1.002
+produce,dry goods pasta,11239,0.2317,1.002
+produce,deli,9801,0.202,1.002
+dry goods pasta,produce,11239,0.9816,1.002
+personal care,dairy eggs,1446,0.77,1.002
+meat seafood,deli,3252,0.202,1.002
+pantry,frozen,4254,0.1828,1.002
+dairy eggs,personal care,1446,0.038,1.002
+deli,produce,9801,0.9817,1.002
+deli,meat seafood,3252,0.3257,1.002
+bakery,produce,17327,0.9807,1.001
+bakery,dry goods pasta,4092,0.2316,1.001
+produce,bakery,17327,0.3572,1.001
+produce,personal care,1843,0.038,1.001
+produce,meat seafood,15787,0.3254,1.001
+produce,pantry,22828,0.4706,1.001
+produce,breakfast,8150,0.168,1.001
+international,breakfast,545,0.168,1.001
+dry goods pasta,bakery,4092,0.3574,1.001
+dry goods pasta,breakfast,1925,0.1681,1.001
+personal care,produce,1843,0.9814,1.001
+meat seafood,produce,15787,0.9808,1.001
+meat seafood,household,2508,0.1558,1.001
+pantry,produce,22828,0.9808,1.001
+breakfast,produce,8150,0.9807,1.001
+breakfast,international,545,0.0656,1.001
+breakfast,dry goods pasta,1925,0.2316,1.001
+household,meat seafood,2508,0.3257,1.001
+bakery,household,2748,0.1555,1.0
+produce,international,3178,0.0655,1.0
+produce,pets,4719,0.0973,1.0
+produce,snacks,17004,0.3505,1.0
+international,produce,3178,0.9797,1.0
+pets,produce,4719,0.9799,1.0
+household,bakery,2748,0.3568,1.0
+household,snacks,2699,0.3505,1.0
+snacks,produce,17004,0.9806,1.0
+snacks,household,2699,0.1556,1.0
+frozen,dairy eggs,6934,0.7677,0.999
+produce,beverages,20233,0.4171,0.999
+produce,dairy eggs,37249,0.7678,0.999
+produce,household,7540,0.1554,0.999
+alcohol,dairy eggs,2976,0.7672,0.999
+international,snacks,1135,0.3499,0.999
+beverages,produce,20233,0.9787,0.999
+dairy eggs,frozen,6934,0.1823,0.999
+dairy eggs,produce,37249,0.9795,0.999
+dairy eggs,alcohol,2976,0.0783,0.999
+dairy eggs,household,5912,0.1555,0.999
+household,produce,7540,0.9791,0.999
+household,dairy eggs,5912,0.7677,0.999
+snacks,international,1135,0.0655,0.999
+bakery,canned goods,2632,0.149,0.998
+produce,canned goods,7230,0.149,0.998
+meat seafood,breakfast,2696,0.1675,0.998
+breakfast,meat seafood,2696,0.3244,0.998
+canned goods,bakery,2632,0.3562,0.998
+canned goods,produce,7230,0.9785,0.998
+frozen,produce,8826,0.9772,0.997
+produce,frozen,8826,0.1819,0.997
+produce,babies,5051,0.1041,0.997
+babies,produce,5051,0.9774,0.997
+frozen,bakery,3210,0.3554,0.996
+bakery,frozen,3210,0.1817,0.996
+alcohol,meat seafood,1257,0.3241,0.996
+meat seafood,alcohol,1257,0.0781,0.996
+frozen,breakfast,1509,0.1671,0.995
+bakery,babies,1835,0.1039,0.995
+produce,alcohol,3782,0.078,0.995
+alcohol,produce,3782,0.975,0.995
+international,canned goods,482,0.1486,0.995
+dry goods pasta,snacks,3993,0.3487,0.995
+breakfast,frozen,1509,0.1816,0.995
+canned goods,international,482,0.0652,0.995
+canned goods,dairy eggs,5650,0.7647,0.995
+dairy eggs,canned goods,5650,0.1486,0.995
+dairy eggs,babies,3949,0.1038,0.995
+babies,bakery,1835,0.3551,0.995
+babies,dairy eggs,3949,0.7641,0.995
+snacks,dry goods pasta,3993,0.2303,0.995
+beverages,personal care,779,0.0377,0.993
+beverages,deli,4142,0.2003,0.993
+personal care,beverages,779,0.4148,0.993
+deli,beverages,4142,0.4149,0.993
+bakery,breakfast,2944,0.1666,0.992
+alcohol,pantry,1809,0.4664,0.992
+beverages,meat seafood,6671,0.3227,0.992
+dry goods pasta,household,1768,0.1544,0.992
+meat seafood,beverages,6671,0.4145,0.992
+pantry,alcohol,1809,0.0777,0.992
+breakfast,bakery,2944,0.3543,0.992
+household,dry goods pasta,1768,0.2296,0.992
+beverages,babies,2140,0.1035,0.991
+dry goods pasta,deli,2288,0.1998,0.991
+breakfast,deli,1661,0.1999,0.991
+babies,beverages,2140,0.4141,0.991
+deli,dry goods pasta,2288,0.2292,0.991
+deli,breakfast,1661,0.1664,0.991
+canned goods,snacks,2562,0.3467,0.99
+snacks,canned goods,2562,0.1477,0.99
+frozen,pets,869,0.0962,0.989
+international,dairy eggs,2464,0.7596,0.989
+pets,frozen,869,0.1804,0.989
+dairy eggs,international,2464,0.0648,0.989
+household,deli,1536,0.1995,0.989
+deli,household,1536,0.1538,0.989
+canned goods,babies,762,0.1031,0.988
+babies,canned goods,762,0.1474,0.988
+beverages,household,3175,0.1536,0.987
+pantry,household,3573,0.1535,0.987
+household,beverages,3175,0.4123,0.987
+household,pantry,3573,0.464,0.987
+bakery,beverages,7277,0.4119,0.986
+beverages,bakery,7277,0.352,0.986
+dry goods pasta,babies,1177,0.1028,0.985
+meat seafood,snacks,5555,0.3451,0.985
+babies,dry goods pasta,1177,0.2277,0.985
+snacks,meat seafood,5555,0.3203,0.985
+personal care,babies,193,0.1028,0.984
+babies,personal care,193,0.0373,0.984
+beverages,pantry,9559,0.4624,0.983
+pantry,beverages,9559,0.4107,0.983
+breakfast,babies,853,0.1026,0.983
+babies,breakfast,853,0.1651,0.983
+alcohol,dry goods pasta,880,0.2269,0.981
+beverages,canned goods,3027,0.1464,0.981
+dry goods pasta,alcohol,880,0.0769,0.981
+meat seafood,canned goods,2357,0.1464,0.981
+canned goods,beverages,3027,0.4097,0.981
+canned goods,meat seafood,2357,0.319,0.981
+pets,babies,493,0.1024,0.98
+babies,pets,493,0.0954,0.98
+beverages,pets,1969,0.0952,0.979
+pets,beverages,1969,0.4088,0.979
+dry goods pasta,canned goods,1674,0.1462,0.979
+canned goods,dry goods pasta,1674,0.2266,0.979
+alcohol,beverages,1585,0.4086,0.978
+beverages,alcohol,1585,0.0767,0.978
+canned goods,deli,1455,0.1969,0.976
+deli,canned goods,1455,0.1457,0.976
+frozen,deli,1776,0.1966,0.975
+international,personal care,120,0.037,0.975
+personal care,international,120,0.0639,0.975
+deli,frozen,1776,0.1779,0.975
+international,beverages,1318,0.4063,0.973
+beverages,international,1318,0.0638,0.973
+personal care,pantry,859,0.4574,0.973
+pantry,personal care,859,0.0369,0.973
+bakery,alcohol,1346,0.0762,0.972
+alcohol,bakery,1346,0.347,0.972
+alcohol,household,586,0.1511,0.971
+beverages,dry goods pasta,4644,0.2246,0.971
+dry goods pasta,beverages,4644,0.4056,0.971
+breakfast,canned goods,1204,0.1449,0.971
+canned goods,breakfast,1204,0.1629,0.971
+household,alcohol,586,0.0761,0.971
+alcohol,pets,366,0.0944,0.97
+pets,alcohol,366,0.076,0.97
+personal care,snacks,638,0.3397,0.97
+snacks,personal care,638,0.0368,0.97
+alcohol,breakfast,631,0.1627,0.969
+breakfast,alcohol,631,0.0759,0.969
+pets,snacks,1634,0.3393,0.968
+snacks,pets,1634,0.0942,0.968
+bakery,personal care,648,0.0367,0.967
+personal care,bakery,648,0.345,0.967
+personal care,breakfast,305,0.1624,0.967
+breakfast,personal care,305,0.0367,0.967
+alcohol,personal care,142,0.0366,0.965
+personal care,alcohol,142,0.0756,0.965
+frozen,personal care,330,0.0365,0.963
+bakery,international,1115,0.0631,0.963
+international,bakery,1115,0.3437,0.963
+personal care,frozen,330,0.1757,0.963
+frozen,household,1349,0.1494,0.96
+household,frozen,1349,0.1752,0.96
+pets,breakfast,771,0.1601,0.954
+breakfast,pets,771,0.0928,0.954
+meat seafood,babies,1591,0.0988,0.947
+babies,meat seafood,1591,0.3079,0.947
+household,babies,761,0.0988,0.946
+babies,household,761,0.1473,0.946
+pets,household,702,0.1458,0.937
+household,pets,702,0.0912,0.937
+dry goods pasta,personal care,402,0.0351,0.925
+personal care,dry goods pasta,402,0.2141,0.925
+international,babies,312,0.0962,0.921
+babies,international,312,0.0604,0.921
+alcohol,canned goods,528,0.1361,0.912
+canned goods,alcohol,528,0.0715,0.912
+pets,personal care,166,0.0345,0.908
+personal care,pets,166,0.0884,0.908
+alcohol,international,229,0.059,0.901
+international,alcohol,229,0.0706,0.901

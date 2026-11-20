@@ -1,0 +1,316 @@
+{
+  "dataset": "Simulated sample in Instacart schema",
+  "kpis": {
+    "total_orders": 49497.0,
+    "total_customers": 4000.0,
+    "total_items_sold": 477615.0,
+    "distinct_products": 120.0,
+    "avg_basket_size": 9.65,
+    "reorder_rate": 0.5635
+  },
+  "params": {
+    "min_support": 0.005,
+    "min_confidence": 0.1,
+    "min_lift": 1.2,
+    "attach_rate": 0.05
+  },
+  "n_frequent_itemsets": 5503,
+  "n_rules": 3708,
+  "n_pair_rules": 288,
+  "n_triple_rules": 3420,
+  "qa_max_lift_diff_sql_vs_python": 0.00049988533248424,
+  "top_rules": [
+    {
+      "antecedent": "Cat Litter",
+      "consequent": "Wet Cat Food",
+      "support": 0.008,
+      "confidence": 0.3464,
+      "lift": 11.3169
+    },
+    {
+      "antecedent": "Organic Baby Puffs",
+      "consequent": "Organic Stage 2 Pear Baby Food",
+      "support": 0.0137,
+      "confidence": 0.3982,
+      "lift": 10.1975
+    },
+    {
+      "antecedent": "Dog Treats",
+      "consequent": "Dry Dog Food",
+      "support": 0.0106,
+      "confidence": 0.3487,
+      "lift": 10.1757
+    },
+    {
+      "antecedent": "Organic Baby Puffs",
+      "consequent": "Size 4 Diapers",
+      "support": 0.0138,
+      "confidence": 0.4006,
+      "lift": 10.1681
+    },
+    {
+      "antecedent": "Organic Baby Puffs",
+      "consequent": "Baby Wipes Sensitive",
+      "support": 0.014,
+      "confidence": 0.4059,
+      "lift": 9.6443
+    },
+    {
+      "antecedent": "Organic Stage 2 Pear Baby Food",
+      "consequent": "Size 4 Diapers",
+      "support": 0.0135,
+      "confidence": 0.3456,
+      "lift": 8.7718
+    },
+    {
+      "antecedent": "Trash Bags",
+      "consequent": "Dish Soap",
+      "support": 0.0165,
+      "confidence": 0.3858,
+      "lift": 8.3942
+    },
+    {
+      "antecedent": "Organic Stage 2 Pear Baby Food",
+      "consequent": "Baby Wipes Sensitive",
+      "support": 0.0135,
+      "confidence": 0.3466,
+      "lift": 8.2363
+    },
+    {
+      "antecedent": "Size 4 Diapers",
+      "consequent": "Baby Wipes Sensitive",
+      "support": 0.0135,
+      "confidence": 0.3421,
+      "lift": 8.1279
+    },
+    {
+      "antecedent": "Trash Bags",
+      "consequent": "Toilet Paper 12 Rolls",
+      "support": 0.0172,
+      "confidence": 0.4019,
+      "lift": 7.7674
+    }
+  ],
+  "top_bundles": [
+    {
+      "antecedent": "All-Purpose Flour + Granulated Sugar",
+      "consequent": "Semi-Sweet Chocolate Chips",
+      "support": 0.0053,
+      "confidence": 0.635,
+      "lift": 21.1239
+    },
+    {
+      "antecedent": "Size 4 Diapers + Organic Stage 2 Pear Baby Food",
+      "consequent": "Organic Baby Puffs",
+      "support": 0.0098,
+      "confidence": 0.7231,
+      "lift": 20.9906
+    },
+    {
+      "antecedent": "Baby Wipes Sensitive + Size 4 Diapers",
+      "consequent": "Organic Baby Puffs",
+      "support": 0.0097,
+      "confidence": 0.7196,
+      "lift": 20.8915
+    },
+    {
+      "antecedent": "Baby Wipes Sensitive + Organic Stage 2 Pear Baby Food",
+      "consequent": "Organic Baby Puffs",
+      "support": 0.0096,
+      "confidence": 0.7104,
+      "lift": 20.6247
+    },
+    {
+      "antecedent": "All-Purpose Flour + Semi-Sweet Chocolate Chips",
+      "consequent": "Granulated Sugar",
+      "support": 0.0053,
+      "confidence": 0.6868,
+      "lift": 18.5369
+    },
+    {
+      "antecedent": "Size 4 Diapers + Organic Baby Puffs",
+      "consequent": "Organic Stage 2 Pear Baby Food",
+      "support": 0.0098,
+      "confidence": 0.7072,
+      "lift": 18.1081
+    },
+    {
+      "antecedent": "Organic Stage 2 Pear Baby Food + Organic Baby Puffs",
+      "consequent": "Size 4 Diapers",
+      "support": 0.0098,
+      "confidence": 0.7113,
+      "lift": 18.056
+    },
+    {
+      "antecedent": "Unsalted Butter + All-Purpose Flour",
+      "consequent": "Semi-Sweet Chocolate Chips",
+      "support": 0.0054,
+      "confidence": 0.5402,
+      "lift": 17.968
+    }
+  ],
+  "top_cross_sell": [
+    {
+      "antecedent": "Tortilla Chips",
+      "consequent": "Guacamole",
+      "confidence": 0.3522,
+      "lift": 4.5519,
+      "untapped_orders": 3235,
+      "est_incremental_units": 162,
+      "play": "Recipe bundle / 'Complete the meal' prompt"
+    },
+    {
+      "antecedent": "Tomato Ketchup",
+      "consequent": "Yellow Mustard",
+      "confidence": 0.3944,
+      "lift": 6.4553,
+      "untapped_orders": 2285,
+      "est_incremental_units": 114,
+      "play": "Shelf adjacency / 'Frequently bought together'"
+    },
+    {
+      "antecedent": "Organic Garlic",
+      "consequent": "Organic Lemon",
+      "confidence": 0.3162,
+      "lift": 2.2553,
+      "untapped_orders": 6149,
+      "est_incremental_units": 307,
+      "play": "Shelf adjacency / 'Frequently bought together'"
+    },
+    {
+      "antecedent": "Organic Blueberries",
+      "consequent": "Organic Raspberries",
+      "confidence": 0.364,
+      "lift": 2.0676,
+      "untapped_orders": 5938,
+      "est_incremental_units": 297,
+      "play": "Shelf adjacency / 'Frequently bought together'"
+    },
+    {
+      "antecedent": "Sparkling Water Grapefruit",
+      "consequent": "Lime Sparkling Water",
+      "confidence": 0.3222,
+      "lift": 2.9007,
+      "untapped_orders": 4466,
+      "est_incremental_units": 223,
+      "play": "Shelf adjacency / 'Frequently bought together'"
+    },
+    {
+      "antecedent": "Organic Hass Avocado",
+      "consequent": "Organic Lemon",
+      "confidence": 0.2788,
+      "lift": 1.9885,
+      "untapped_orders": 7927,
+      "est_incremental_units": 396,
+      "play": "Shelf adjacency / 'Frequently bought together'"
+    },
+    {
+      "antecedent": "Organic Raspberries",
+      "consequent": "Organic Blueberries",
+      "confidence": 0.39,
+      "lift": 2.0676,
+      "untapped_orders": 5315,
+      "est_incremental_units": 266,
+      "play": "Shelf adjacency / 'Frequently bought together'"
+    },
+    {
+      "antecedent": "Organic Baby Spinach",
+      "consequent": "Organic Lemon",
+      "confidence": 0.2665,
+      "lift": 1.9009,
+      "untapped_orders": 8629,
+      "est_incremental_units": 431,
+      "play": "Shelf adjacency / 'Frequently bought together'"
+    },
+    {
+      "antecedent": "Organic Strawberries",
+      "consequent": "Organic Raspberries",
+      "confidence": 0.301,
+      "lift": 1.7101,
+      "untapped_orders": 9132,
+      "est_incremental_units": 457,
+      "play": "Shelf adjacency / 'Frequently bought together'"
+    },
+    {
+      "antecedent": "Guacamole",
+      "consequent": "Tortilla Chips",
+      "confidence": 0.4593,
+      "lift": 4.5519,
+      "untapped_orders": 2071,
+      "est_incremental_units": 104,
+      "play": "Recipe bundle / 'Complete the meal' prompt"
+    }
+  ],
+  "total_est_incremental_units_top10": 2757,
+  "top_dept_pairs": [
+    {
+      "department_a": "frozen",
+      "department_b": "international",
+      "orders_together": 1163,
+      "confidence": 0.1288,
+      "lift": 1.965
+    },
+    {
+      "department_a": "dry goods pasta",
+      "department_b": "international",
+      "orders_together": 1336,
+      "confidence": 0.1167,
+      "lift": 1.78
+    },
+    {
+      "department_a": "international",
+      "department_b": "meat seafood",
+      "orders_together": 1545,
+      "confidence": 0.4763,
+      "lift": 1.465
+    },
+    {
+      "department_a": "alcohol",
+      "department_b": "deli",
+      "orders_together": 1112,
+      "confidence": 0.2867,
+      "lift": 1.421
+    },
+    {
+      "department_a": "deli",
+      "department_b": "snacks",
+      "orders_together": 4890,
+      "confidence": 0.4898,
+      "lift": 1.398
+    },
+    {
+      "department_a": "bakery",
+      "department_b": "meat seafood",
+      "orders_together": 7335,
+      "confidence": 0.4152,
+      "lift": 1.277
+    }
+  ],
+  "first_in_cart": [
+    {
+      "product_name": "Banana",
+      "times_added_first": 1871,
+      "share_of_orders": 0.0378
+    },
+    {
+      "product_name": "Bag of Organic Bananas",
+      "times_added_first": 1715,
+      "share_of_orders": 0.0346
+    },
+    {
+      "product_name": "Organic Strawberries",
+      "times_added_first": 1329,
+      "share_of_orders": 0.0269
+    },
+    {
+      "product_name": "Organic Baby Spinach",
+      "times_added_first": 1270,
+      "share_of_orders": 0.0257
+    },
+    {
+      "product_name": "Organic Hass Avocado",
+      "times_added_first": 1132,
+      "share_of_orders": 0.0229
+    }
+  ]
+}

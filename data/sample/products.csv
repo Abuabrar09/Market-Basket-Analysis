@@ -1,0 +1,121 @@
+product_id,product_name,aisle_id,department_id
+1,Banana,25,4
+2,Bag of Organic Bananas,25,4
+3,Organic Strawberries,25,4
+4,Organic Baby Spinach,47,4
+5,Organic Hass Avocado,25,4
+6,Organic Avocado,25,4
+7,Large Lemon,25,4
+8,Limes,25,4
+9,Strawberries,25,4
+10,Organic Raspberries,25,4
+11,Organic Blueberries,25,4
+12,Organic Yellow Onion,27,4
+13,Organic Garlic,27,4
+14,Organic Zucchini,27,4
+15,Cucumber Kirby,27,4
+16,Organic Fuji Apple,25,4
+17,Apple Honeycrisp Organic,25,4
+18,Organic Grape Tomatoes,27,4
+19,Organic Cilantro,26,4
+20,Jalapeno Peppers,27,4
+21,Organic Lemon,25,4
+22,Yellow Onions,27,4
+23,Organic Red Bell Pepper,27,4
+24,Carrots,27,4
+25,Organic Romaine Lettuce,47,4
+26,Seedless Red Grapes,25,4
+27,Russet Potatoes,27,4
+28,Organic Kiwi,25,4
+29,Organic Whole Milk,41,16
+30,Organic Half & Half,18,16
+31,Organic Large Extra Fancy Grade AA Brown Eggs,23,16
+32,Large Grade A Eggs,23,16
+33,Unsalted Butter,8,16
+34,Shredded Mexican Cheese Blend,46,16
+35,Sour Cream,45,16
+36,Sharp Cheddar Cheese Slices,46,16
+37,Grated Parmesan,46,16
+38,Shredded Mozzarella,46,16
+39,Total 0% Nonfat Plain Greek Yogurt,65,16
+40,Organic Strawberry Yogurt,65,16
+41,Original Hazelnut Coffee Creamer,18,16
+42,Cream Cheese,45,16
+43,Unsweetened Almondmilk,58,16
+44,Organic Whole Wheat Bread,5,3
+45,Hamburger Buns,7,3
+46,Plain Bagels,6,3
+47,Flour Tortillas,62,3
+48,Sourdough Bread,5,3
+49,Hot Dog Buns,7,3
+50,Boneless Skinless Chicken Breasts,51,12
+51,Ground Beef 85% Lean,40,12
+52,Thick Cut Bacon,36,12
+53,Beef Hot Dogs,36,12
+54,Atlantic Salmon Fillet,55,12
+55,Marinara Sauce,49,9
+56,Spaghetti,22,9
+57,Penne Rigate,22,9
+58,Extra Virgin Olive Oil,43,13
+59,Creamy Peanut Butter,60,13
+60,Strawberry Jam,60,13
+61,Tomato Ketchup,16,13
+62,Yellow Mustard,16,13
+63,Medium Salsa,52,13
+64,Taco Seasoning,59,13
+65,Honey,34,13
+66,Pure Maple Syrup,34,13
+67,All-Purpose Flour,3,13
+68,Granulated Sugar,3,13
+69,Semi-Sweet Chocolate Chips,3,13
+70,Organic Black Beans,11,15
+71,Diced Tomatoes,10,15
+72,Chicken Noodle Soup,57,15
+73,Organic Chicken Broth,57,15
+74,Honey Nut Cheerios,13,14
+75,Old Fashioned Oats,35,14
+76,Buttermilk Pancake Mix,35,14
+77,Granola,32,14
+78,Sparkling Water Grapefruit,64,7
+79,Spring Water,64,7
+80,Lime Sparkling Water,64,7
+81,Medium Roast Ground Coffee,15,7
+82,100% Orange Juice,54,7
+83,Cola Soda 12 Pack,56,7
+84,Green Tea,61,7
+85,Tortilla Chips,14,19
+86,Original Potato Chips,14,19
+87,Classic Hummus,24,20
+88,Pita Chips,17,19
+89,Cheddar Bunnies,17,19
+90,Dark Chocolate Bar,9,19
+91,Mixed Nuts,42,19
+92,Microwave Popcorn,50,19
+93,Fruit Snacks,30,19
+94,Oven Roasted Turkey Breast,39,20
+95,Guacamole,24,20
+96,Frozen Organic Blueberries,29,1
+97,Vanilla Ice Cream,37,1
+98,Frozen Pepperoni Pizza,28,1
+99,Frozen Broccoli Florets,29,1
+100,Baby Wipes Sensitive,19,18
+101,Size 4 Diapers,19,18
+102,Organic Stage 2 Pear Baby Food,2,18
+103,Organic Baby Puffs,2,18
+104,Paper Towels,48,17
+105,Toilet Paper 12 Rolls,48,17
+106,Dish Soap,20,17
+107,Laundry Detergent,38,17
+108,Trash Bags,63,17
+109,Toothpaste,44,11
+110,Shampoo,33,11
+111,Dry Dog Food,21,8
+112,Dog Treats,21,8
+113,Wet Cat Food,12,8
+114,Cat Litter,12,8
+115,IPA Beer 6 Pack,4,5
+116,Cabernet Sauvignon,53,5
+117,Lager Beer 12 Pack,4,5
+118,Soy Sauce,1,6
+119,Jasmine Rice,31,9
+120,Coconut Milk,1,6
