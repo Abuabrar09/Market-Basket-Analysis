@@ -6,6 +6,8 @@ I work with retail supermarket data day to day, and "what sells with what" is on
 
 **Tools:** Python (pandas, numpy, matplotlib, networkx), SQL (SQLite), Tableau Public
 
+**Dashboard:** [Instacart Market Basket Analysis on Tableau Public](https://public.tableau.com/app/profile/abrar.ahmed.syed4247/viz/InstacartMarketBasketAnalysis_17951940099710/MarketBasketDashboard)
+
 ## Data
 
 The Instacart Market Basket Analysis dataset on Kaggle has about 3M grocery orders from 200K+ customers and around 50K products across 134 aisles and 21 departments.
@@ -69,6 +71,12 @@ Ranking by lift alone isn't the full picture, though. When I ranked by untapped 
 Rough sizing: if a prompt converted 5% of those orders, the top 10 ideas would add about 2,750 units in this sample. The 5% is an assumption; in practice you would A/B test it.
 
 Other charts are in `outputs/figures`: support vs confidence for all rules, the department affinity heatmap, top products, and orders by day and hour.
+
+## Tableau dashboard
+
+The dashboard pulls the main views together: the top cross-sell opportunities, the strongest product pairs, the department affinity heatmap, and a scatter of every rule that can be filtered by department.
+
+[![Tableau dashboard](outputs/figures/tableau_dashboard.png)](https://public.tableau.com/app/profile/abrar.ahmed.syed4247/viz/InstacartMarketBasketAnalysis_17951940099710/MarketBasketDashboard)
 
 ## What I'd recommend from this
 
